@@ -1,27 +1,42 @@
-body{
-    color:black;
-    background-color:#dee5e9;
+body {
+    color: black;
+    background-color: #dee5e9;
 }
-h1,h2,h3,h4,h5 {
-    color:#37387c;
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: #37387c;
     font-weight: bold;
     margin-top: 5px;
     margin-bottom: 5px;
     padding: 5px;
 }
-h1{
+
+h1 {
     font-size: 30px;
 }
-h2{
+
+h2 {
     font-size: 25px;
 }
-h3{
+
+h3 {
     font-size: 20px;
 }
-.bordered
-{
+
+.bordered {
     border-radius: 12px;
     border: 1px dashed grey;
     padding: 5px;
     margin-bottom: 5px;
+}
+
+audio {
+    max-height: 100%;
+    max-width: 100%;
+    margin: auto;
+    object-fit: contain;
 }
