@@ -30,6 +30,7 @@ h5 {
     margin-top: 5px;
     margin-bottom: 5px;
     padding: 5px;
+    font-family:vazir;
 }
 
 h1 {
@@ -49,6 +50,7 @@ h3 {
     border: 1px dashed grey;
     padding: 5px;
     margin-bottom: 5px;
+
 }
 
 audio {
@@ -56,4 +58,5 @@ audio {
     max-width: 100%;
     margin: auto;
     object-fit: contain;
+    font-family:vazir;
 }
