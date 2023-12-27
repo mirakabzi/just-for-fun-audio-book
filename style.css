@@ -1,9 +1,20 @@
 body{
     color:black;
-    background-color:lightblue;
+    background-color:#dee5e9;
 }
 h1,h2,h3,h4,h5 {
-    color:blue;
+    color:#37387c;
     font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 25px;
+}
+h3{
     font-size: 20px;
 }
