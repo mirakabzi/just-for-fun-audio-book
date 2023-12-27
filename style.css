@@ -18,3 +18,10 @@ h2{
 h3{
     font-size: 20px;
 }
+.bordered
+{
+    border-radius: 12px;
+    border: 1px dashed grey;
+    padding: 5px;
+    margin-bottom: 5px;
+}
